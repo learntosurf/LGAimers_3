@@ -12,5 +12,5 @@
 
 
 ## 💡 결과
-- **Online:** Private Score **25등**  
-- **Offline:** Private Score **19등**
+**Online:** Private Score **25등**  
+**Offline:** Private Score **19등**
