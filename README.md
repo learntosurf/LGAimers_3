@@ -7,8 +7,11 @@
 ---
 
 ### 📌 팀 소개
-**팀명:** 작전명 성장  
-**팀원:** 정수미, 이선정, 소지연
+- **팀명:** 작전명 성장  
+- **팀원:** 
+  - 정수미  [@learntosurf](https://github.com/learntosurf)  
+  - 이선정  [@selectionlee](https://github.com/selectionlee)
+  - 소지연 
 
 
 ### 💡 결과
